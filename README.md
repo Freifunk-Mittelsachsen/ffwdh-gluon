@@ -10,7 +10,7 @@ cd ffwdh-gluon
 docker build -t dnoelte/ffwdh-gluon:v1 .
 
 ## Start Building the script via
-./run.sh
+./start.sh
 
 This will start up the Docker Machine, Build the gluon-image for all Freifunk Mittelsachsen Cities and places them in the "data" folder.
 
